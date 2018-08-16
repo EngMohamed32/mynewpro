@@ -1,0 +1,49 @@
+body {
+    overflow: hidden
+}
+
+button {
+    background: #FFF;
+    padding: 10px 15px;
+    border-radius: 25px;
+    border: 1px solid #DDD;
+    width: 53%;
+    display: block;
+    margin: 15px auto 5px;
+    font-size: 20px;
+    font-weight: 600
+}
+
+button:hover {
+background: #09c    
+}
+
+input {
+    color: #000;
+    background: #F2F2F2;
+    padding: 15px 20px;
+    margin: 20px auto 10px;
+    display: block;
+    border-radius: 30px;
+    border: 1px solid #DDD;
+    width: 50%;
+    font-size: 22px
+}
+
+div {
+    width: 80%;
+    height: 120px;
+    background: #DDD;
+    border: 2px #000;
+    margin: auto;
+    border-style: dotted;
+    border-radius: 20px 20px 20px 0;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    color: lightcoral
+}
+
+h1 {
+    margin: 10px 0;
+}
